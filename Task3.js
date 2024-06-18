@@ -23,6 +23,30 @@ const JSON_File_Creator = async (json_string, name) => {
     console.error("Error writing file", err);
   }
 };
+
+const sectorsJson = async (name) => {
+  var result = {};
+  try {
+    // Read the JSON file
+    const data = await fs.readFile(`${name}.json`, "utf8");
+
+    // Parse the JSON file
+    const obj = JSON.parse(data);
+    const list = obj.data;
+    //console.log(list);
+    //Iterate over the JSON object
+    for (const key in list) {
+      const element = list[key];
+      console.log(`${key} == ${element.name}`);
+      result[key] = element.name;
+    }
+  } catch (err) {
+    console.error("Error reading or parsing file", err);
+  }
+  jResult = JSON.stringify(result, null, 2);
+  JSON_File_Creator(jResult, "sectors");
+};
+
 const main = async () => {
   try {
     console.log("Waiting");
@@ -31,6 +55,7 @@ const main = async () => {
       "https://app.equidam.com/api/v3/industries?lang=en",
       "industries"
     );
+    await sectorsJson("industries");
   } catch (error) {
     console.log("Problem happened", error);
   } finally {
