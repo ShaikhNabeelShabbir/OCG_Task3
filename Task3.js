@@ -37,14 +37,51 @@ const sectorsJson = async (name) => {
     //Iterate over the JSON object
     for (const key in list) {
       const element = list[key];
-      console.log(`${key} == ${element.name}`);
+      //console.log(`${key} == ${element.name}`);
       result[key] = element.name;
     }
   } catch (err) {
     console.error("Error reading or parsing file", err);
   }
   jResult = JSON.stringify(result, null, 2);
-  JSON_File_Creator(jResult, "sectors");
+  await JSON_File_Creator(jResult, "sectors");
+};
+
+const industriesJson = async (name) => {
+  var result = {};
+  try {
+    // Read the JSON file
+    const data = await fs.readFile(`${name}.json`, "utf8");
+
+    // Parse the JSON file
+    const obj = JSON.parse(data);
+    const list = obj.data;
+    //Iterate over the JSON object
+    for (const key in list) {
+      const element = list[key];
+      //console.log(`${key} == ${element.industries}`);
+      list[key] = element.industries;
+    }
+    console.log(list);
+    //iterating list which has the industries
+    for (const key in list) {
+      if (data.hasOwnProperty(key)) {
+        //initializes an empty object for each top-level key to store sub-keys
+        result[key] = {};
+        // Iterate through each sub-key in the current key's object
+        for (const subKey in list[key]) {
+          if (list[key].hasOwnProperty(subKey)) {
+            // Assign the 'name' property of the object corresponding to 'subKey' to the 'result' object
+            result[key][subKey] = list[key][subKey].name;
+          }
+        }
+      }
+    }
+  } catch (err) {
+    console.error("Error reading or parsing file", err);
+  }
+  jResult = JSON.stringify(result, null, 2);
+  await JSON_File_Creator(jResult, "industries");
 };
 
 const main = async () => {
@@ -53,9 +90,10 @@ const main = async () => {
 
     await fetchDATA(
       "https://app.equidam.com/api/v3/industries?lang=en",
-      "industries"
+      "mainData"
     );
-    await sectorsJson("industries");
+    await sectorsJson("mainData");
+    await industriesJson("mainData");
   } catch (error) {
     console.log("Problem happened", error);
   } finally {
