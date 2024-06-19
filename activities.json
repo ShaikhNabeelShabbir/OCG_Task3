@@ -1,0 +1,1167 @@
+{
+  "5010": {
+    "50101010": {
+      "5010101012": "coal wholesale",
+      "5010101011": "coal mining support",
+      "5010101010": "other coal"
+    },
+    "50102010": {
+      "5010201010": "integrated oil & gas"
+    },
+    "50102020": {
+      "5010202015": "unconventional oil & gas production",
+      "5010202014": "natural gas exploration & production - offshore",
+      "5010202013": "natural gas exploration & production - onshore",
+      "5010202012": "oil exploration & production - offshore",
+      "5010202011": "oil exploration & production - onshore",
+      "5010202010": "other oil & gas exploration and production"
+    },
+    "50102030": {
+      "5010203013": "petroleum product wholesale",
+      "5010203012": "gasoline stations",
+      "5010203011": "petroleum refining",
+      "5010203010": "other oil & gas refining and marketing"
+    },
+    "50103010": {
+      "5010301015": "unconventional oil & gas drilling",
+      "5010301014": "gas drilling - offshore",
+      "5010301013": "oil drilling - offshore",
+      "5010301012": "gas drilling - onshore",
+      "5010301011": "Olie boren - aan land",
+      "5010301010": "other oil & gas drilling"
+    },
+    "50103020": {
+      "5010302013": "oil related - surveying & mapping services",
+      "5010302012": "oil related equipment",
+      "5010302011": "oil related services",
+      "5010302010": "other oil related services and equipment"
+    },
+    "50103030": {
+      "5010303015": "oil & gas storage",
+      "5010303014": "sea-borne tankers",
+      "5010303013": "oil pipeline transportation",
+      "5010303012": "natural gas pipeline transportation",
+      "5010303011": "lng transportation & storage",
+      "5010303010": "other oil & gas transportation services"
+    }
+  },
+  "5020": {
+    "50201010": {
+      "5020101020": "geothermal equipment",
+      "5020101019": "renewable energy services",
+      "5020101018": "wave power energy equipment",
+      "5020101017": "hydropower equipment",
+      "5020101016": "waste to energy systems & equipment",
+      "5020101015": "biomass power energy equipment",
+      "5020101014": "thermal solar systems & equipment",
+      "5020101013": "photovoltaic solar systems & equipment",
+      "5020101012": "stationary fuel cells",
+      "5020101011": "wind systems & equipment",
+      "5020101010": "other renewable energy equipment & services"
+    },
+    "50201020": {
+      "5020102015": "hydrogen fuel",
+      "5020102014": "biomass & biogas fuels",
+      "5020102013": "pyrolytic & synthetic fuels",
+      "5020102012": "ethanol fuels",
+      "5020102011": "biodiesel",
+      "5020102010": "other renewable fuels"
+    }
+  },
+  "5030": {
+    "50301010": {
+      "5030101012": "uranium processing",
+      "5030101011": "uranium mining",
+      "5030101010": "other uranium"
+    }
+  },
+  "5110": {
+    "51101010": {
+      "5110101016": "commodity chemicals wholesale",
+      "5110101015": "industrial gases",
+      "5110101014": "explosives",
+      "5110101013": "tanning & softening agents",
+      "5110101012": "paints & coatings",
+      "5110101011": "plastics",
+      "5110101010": "other commodity chemicals"
+    },
+    "51101020": {
+      "5110102014": "agricultural chemicals wholesale",
+      "5110102013": "organic fertilizers",
+      "5110102012": "pesticides",
+      "5110102011": "fertilizers",
+      "5110102010": "other agricultural chemicals"
+    },
+    "51101030": {
+      "5110103017": "specialty chemicals wholesale",
+      "5110103016": "industrial biotechnology chemicals",
+      "5110103015": "epoxy chemicals",
+      "5110103014": "advanced polymers",
+      "5110103013": "adhesives",
+      "5110103012": "synthetic fibers",
+      "5110103011": "coloring agents",
+      "5110103010": "other specialty chemicals"
+    },
+    "51101090": {
+      "5110109010": "diversified chemicals"
+    }
+  },
+  "5120": {
+    "51201010": {
+      "5120101016": "rare earth minerals",
+      "5120101015": "pearl cultivation",
+      "5120101014": "semiprecious gem stones",
+      "5120101013": "diamond mining",
+      "5120101012": "platinum mining",
+      "5120101011": "silver mining",
+      "5120101010": "other non-gold precious metals & minerals"
+    },
+    "51201020": {
+      "5120102016": "metal merchant wholesalers",
+      "5120102015": "metallic rolling & drawing products",
+      "5120102014": "metal service centers",
+      "5120102013": "iron, steel mills & foundries",
+      "5120102012": "coke coal mining",
+      "5120102011": "iron ore mining",
+      "5120102010": "other iron & steel"
+    },
+    "51201030": {
+      "5120103016": "bauxite mining",
+      "5120103015": "aluminum wholesalers",
+      "5120103014": "aluminum refining",
+      "5120103013": "aluminum rolling",
+      "5120103012": "secondary smelting & alloying of aluminum",
+      "5120103011": "primary aluminum production",
+      "5120103010": "other aluminum"
+    },
+    "51201050": {
+      "5120105017": "specialty mining & metals wholesale",
+      "5120105016": "nonferrous metal processing",
+      "5120105015": "nonferrous metal mining",
+      "5120105014": "zinc ore mining",
+      "5120105013": "nickel ore mining",
+      "5120105012": "copper ore mining",
+      "5120105011": "lead ore mining",
+      "5120105010": "other specialty mining & metals"
+    },
+    "51201060": {
+      "5120106012": "gold refining",
+      "5120106011": "gold mining",
+      "5120106010": "other gold"
+    },
+    "51201070": {
+      "5120107013": "mining machinery & equipment manufacturing",
+      "5120107012": "mining support services",
+      "5120107011": "geophysical surveying & mapping services",
+      "5120107010": "other mining support services & equipment"
+    },
+    "51201080": {
+      "5120108010": "diversified mining"
+    },
+    "51202010": {
+      "5120201015": "construction material wholesale",
+      "5120201014": "rock mining",
+      "5120201013": "tile & paving material manufacturing",
+      "5120201012": "cement & concrete manufacturing",
+      "5120201011": "construction material processing",
+      "5120201010": "other construction materials"
+    }
+  },
+  "5130": {
+    "51301010": {
+      "5130101016": "wood product wholesale",
+      "5130101015": "wood products",
+      "5130101014": "forest support & services",
+      "5130101013": "logging & sawmills",
+      "5130101012": "forest nurseries & gathering of forest products",
+      "5130101011": "timber tract operations",
+      "5130101010": "other forest & wood products"
+    },
+    "51301020": {
+      "5130102014": "paper product wholesale",
+      "5130102013": "pulp mills",
+      "5130102012": "newsprint mills",
+      "5130102011": "paper mills & products",
+      "5130102010": "other paper products"
+    },
+    "51302010": {
+      "5130201016": "container & packaging material wholesale",
+      "5130201015": "wood container & packaging",
+      "5130201014": "plastic containers & packaging",
+      "5130201013": "metal containers & packaging",
+      "5130201012": "glass containers & packaging",
+      "5130201011": "textile containers & packaging",
+      "5130201010": "other non-paper containers & packaging"
+    },
+    "51302020": {
+      "5130202011": "paper packaging wholesale",
+      "5130202010": "other paper packaging"
+    }
+  },
+  "5210": {
+    "52101010": {
+      "5210101019": "aircraft equipment wholesale",
+      "5210101018": "military clothing & accessories",
+      "5210101017": "spacecraft manufacturing",
+      "5210101016": "satellite design & manufacture",
+      "5210101015": "military vehicles manufacturing",
+      "5210101014": "aircraft parts manufacturing",
+      "5210101013": "military aircraft manufacturing",
+      "5210101012": "commercial aircraft manufacturing",
+      "5210101011": "arms & ammunitions manufacturing",
+      "5210101010": "other aerospace & defense"
+    },
+    "52102010": {
+      "5210201024": "industrial machinery & equipment wholesale",
+      "5210201023": "industrial valve manufacturing",
+      "5210201022": "machine tools",
+      "5210201021": "industrial moulds",
+      "5210201020": "automatic vending machines",
+      "5210201019": "fluid power cylinder & actuators",
+      "5210201018": "industrial process furnace & ovens",
+      "5210201017": "welding & soldering equipment",
+      "5210201016": "air & gas compressors",
+      "5210201015": "pump & pumping equipment",
+      "5210201014": "testing & measuring equipment",
+      "5210201013": "ball & roller bearings",
+      "5210201012": "industrial machinery",
+      "5210201011": "industrial parts & components",
+      "5210201010": "other industrial machinery & equipment"
+    },
+    "52102020": {
+      "5210202017": "heavy machinery & vehicles wholesale",
+      "5210202016": "commercial landscaping equipment",
+      "5210202015": "agricultural machinery",
+      "5210202014": "locomotive engines & rolling stock",
+      "5210202013": "heavy buses & coaches",
+      "5210202012": "heavy trucks",
+      "5210202011": "construction machinery",
+      "5210202010": "other heavy machinery & vehicles"
+    },
+    "52102030": {
+      "5210203020": "electric equipment wholesale",
+      "5210203019": "electrical measuring & testing instruments",
+      "5210203018": "portable motors & generators",
+      "5210203017": "switchgear",
+      "5210203016": "electrical insulators",
+      "5210203015": "heating, ventilation & air conditioning systems",
+      "5210203014": "lighting equipment",
+      "5210203013": "electrical components",
+      "5210203012": "wires & cables",
+      "5210203011": "batteries & uninterruptable power supplies",
+      "5210203010": "other electrical components & equipment"
+    },
+    "52102040": {
+      "5210204016": "nuclear generators & components",
+      "5210204015": "industrial electrical switchgear",
+      "5210204014": "heavy motors & generators",
+      "5210204013": "turbine manufacturing",
+      "5210204012": "elevator & conveying equipment",
+      "5210204011": "electrical transmission & grid equipment",
+      "5210204010": "other heavy electrical equipment"
+    },
+    "52102050": {
+      "5210205012": "ship repairing & maintenance",
+      "5210205011": "ship parts manufacturers",
+      "5210205010": "other shipbuilding"
+    }
+  },
+  "5220": {
+    "52201020": {
+      "5220102023": "telecommunication  construction",
+      "5220102022": "nuclear power plant construction",
+      "5220102021": "electric power plant construction",
+      "5220102020": "gas infrastructure construction",
+      "5220102019": "land division & subdivision",
+      "5220102018": "water & sewage construction",
+      "5220102017": "industrial plant construction",
+      "5220102016": "building contractors",
+      "5220102015": "civil engineers & architects",
+      "5220102014": "power & communications network construction",
+      "5220102013": "railway construction",
+      "5220102012": "highway & bridge construction",
+      "5220102011": "commercial buildings",
+      "5220102010": "other construction & engineering"
+    },
+    "52202010": {
+      "5220201010": "diversified industrial goods wholesalers"
+    },
+    "52203010": {
+      "5220301015": "carbon capture & storage",
+      "5220301014": "environmental r&d services & biotechnology",
+      "5220301013": "environmental consultancy services",
+      "5220301012": "waste management, disposal & recycling services",
+      "5220301011": "purification & treatment equipment",
+      "5220301010": "other environmental services & equipment"
+    },
+    "52203020": {
+      "5220302013": "book printing services",
+      "5220302012": "newspaper & magazine printing services",
+      "5220302011": "specialized printing services",
+      "5220302010": "other commercial printing services"
+    },
+    "52203030": {
+      "5220303014": "online job portals",
+      "5220303013": "executive search services",
+      "5220303012": "outsourcing & staffing services",
+      "5220303011": "human resources consulting services",
+      "5220303010": "other employment services"
+    },
+    "52203040": {
+      "5220304027": "transaction & payment services",
+      "5220304026": "exhibition & conference services",
+      "5220304025": "call center services",
+      "5220304024": "testing laboratories",
+      "5220304023": "translation & interpretation services",
+      "5220304022": "industrial design services",
+      "5220304021": "maintenance & repair services",
+      "5220304020": "pest control services",
+      "5220304019": "office equipment & supplies rental",
+      "5220304018": "industrial equipment rental",
+      "5220304017": "data processing services",
+      "5220304016": "cleaning services",
+      "5220304015": "commercial educational services",
+      "5220304014": "security services",
+      "5220304013": "management consulting services",
+      "5220304012": "legal services",
+      "5220304011": "corporate accounting services",
+      "5220304010": "other business support services"
+    },
+    "52203060": {
+      "5220306014": "office supplies wholesale",
+      "5220306013": "health, safety & fire protection equipment",
+      "5220306012": "office supplies",
+      "5220306011": "office furniture",
+      "5220306010": "other business support supplies"
+    },
+    "52203070": {
+      "5220307018": "news agencies",
+      "5220307017": "journals & scholarly research",
+      "5220307016": "education & training information providers",
+      "5220307015": "legal & tax information providers",
+      "5220307014": "trade & business publishing",
+      "5220307013": "rating agencies",
+      "5220307012": "compliance & investor communication",
+      "5220307011": "financial information providers",
+      "5220307010": "other professional information services"
+    }
+  },
+  "5230": {
+    "52301010": {
+      "5230101010": "industrial conglomerates"
+    }
+  },
+  "5240": {
+    "52405010": {
+      "5240501014": "integrated logistics operators",
+      "5240501013": "courier services",
+      "5240501012": "air freight",
+      "5240501011": "freight logistics",
+      "5240501010": "other courier, postal, air freight & land-based logistics"
+    },
+    "52405020": {
+      "5240502013": "deep sea freight",
+      "5240502012": "inland water freight",
+      "5240502011": "marine logistics",
+      "5240502010": "other marine freight & logistics"
+    },
+    "52405030": {
+      "5240503014": "truck rental",
+      "5240503013": "warehousing",
+      "5240503012": "freight trucking",
+      "5240503011": "railway freight operators",
+      "5240503010": "other ground freight & logistics"
+    },
+    "52406010": {
+      "5240601014": "inter-modal passenger transportation",
+      "5240601013": "specialized aviation services",
+      "5240601012": "charter & private air services",
+      "5240601011": "regional airlines",
+      "5240601010": "other airlines"
+    },
+    "52406020": {
+      "5240602017": "passenger car rental",
+      "5240602016": "taxis & limousines",
+      "5240602015": "commuter ferry operators",
+      "5240602014": "marine passenger transportation",
+      "5240602013": "rail services",
+      "5240602012": "charter bus services",
+      "5240602011": "commuting services",
+      "5240602010": "other passenger transportation, ground & sea"
+    },
+    "52407010": {
+      "5240701014": "airline catering services",
+      "5240701013": "airport fueling services",
+      "5240701012": "duty free shops",
+      "5240701011": "airport operators",
+      "5240701010": "other airport operators & services"
+    },
+    "52407020": {
+      "5240702013": "marine cargo handling services",
+      "5240702012": "port operators",
+      "5240702011": "port warehousing services",
+      "5240702010": "other marine port services"
+    },
+    "52407030": {
+      "5240703013": "parking lot operators",
+      "5240703012": "railway operators",
+      "5240703011": "highway operators",
+      "5240703010": "other highways & rail tracks"
+    }
+  },
+  "5310": {
+    "53101010": {
+      "5310101016": "auto & truck wholesale",
+      "5310101015": "luxury vehicles",
+      "5310101014": "electrical (alternative) vehicles",
+      "5310101013": "light trucks",
+      "5310101012": "automobiles & multi utility vehicles",
+      "5310101011": "motorcycles & scooters",
+      "5310101010": "other auto & truck manufacturers"
+    },
+    "53101020": {
+      "5310102017": "auto & truck parts wholesale",
+      "5310102016": "motorcycle parts & accessories",
+      "5310102015": "automotive accessories",
+      "5310102014": "automotive systems",
+      "5310102013": "automotive batteries",
+      "5310102012": "engine & powertrain systems",
+      "5310102011": "automotive body parts",
+      "5310102010": "other auto, truck & motorcycle parts"
+    },
+    "53101030": {
+      "5310103015": "tires & rubber products wholesale",
+      "5310103014": "rubber plantations",
+      "5310103013": "industrial rubber products",
+      "5310103012": "tire retreading",
+      "5310103011": "tire & tube manufacturers",
+      "5310103010": "other tires & rubber products"
+    }
+  },
+  "5320": {
+    "53202010": {
+      "5320201019": "textiles & leather goods wholesale",
+      "5320201018": "cotton farming",
+      "5320201017": "yarn goods",
+      "5320201016": "fabric dyeing & finishing",
+      "5320201015": "fur goods",
+      "5320201014": "leather goods",
+      "5320201013": "organic & ecologically produced fabric",
+      "5320201012": "natural fabrics",
+      "5320201011": "synthetic fabrics",
+      "5320201010": "Other textiles & leather goods"
+    },
+    "53202020": {
+      "5320202030": "apparel wholesale",
+      "5320202029": "fashion eyewear",
+      "5320202028": "handbags & luggage",
+      "5320202027": "watches",
+      "5320202026": "oreficeria",
+      "5320202025": "accessories",
+      "5320202024": "luxury accessories",
+      "5320202023": "animal & pet clothing",
+      "5320202022": "theatrical costumes",
+      "5320202021": "luxury clothing",
+      "5320202020": "fair trade & ethical clothing",
+      "5320202019": "industrial clothing & uniforms",
+      "5320202018": "hosiery & socks",
+      "5320202017": "lingerie",
+      "5320202016": "knitwear",
+      "5320202015": "jeans",
+      "5320202014": "sportswear & outdoors clothing",
+      "5320202013": "children's & infants' clothing",
+      "5320202012": "women's clothing",
+      "5320202011": "men's clothing",
+      "5320202010": "other apparel & accessories"
+    },
+    "53202030": {
+      "5320203017": "footwear wholesale",
+      "5320203016": "functional footwear",
+      "5320203015": "luxury footwear",
+      "5320203014": "sports & outdoor footwear",
+      "5320203013": "children's & infants' footwear",
+      "5320203012": "women's footwear",
+      "5320203011": "men's footwear",
+      "5320203010": "other footwear"
+    },
+    "53203010": {
+      "5320301016": "residential architectural & interior design services",
+      "5320301015": "retirement home builders",
+      "5320301014": "sustainable & energy efficient home builders",
+      "5320301013": "prefabricated homes",
+      "5320301012": "residential builders - multifamily homes",
+      "5320301011": "residential builders - single homes",
+      "5320301010": "other homebuilding"
+    },
+    "53203020": {
+      "5320302020": "construction supplies & fixtures wholesale",
+      "5320302019": "lighting fixtures",
+      "5320302018": "roofing supplies",
+      "5320302017": "bathroom fixtures",
+      "5320302016": "kitchen cabinets",
+      "5320302015": "plumbing fixtures & fittings",
+      "5320302014": "flooring & interior tile manufacturers",
+      "5320302013": "doors & window frames",
+      "5320302012": "luxury construction supplies & fixtures",
+      "5320302011": "construction supplies",
+      "5320302010": "other construction supplies & fixtures"
+    },
+    "53204030": {
+      "5320403016": "luxury appliances",
+      "5320403015": "appliance & houseware wholesale",
+      "5320403014": "cutlery & flatware",
+      "5320403013": "kitchen appliances",
+      "5320403012": "tools & housewares",
+      "5320403011": "household appliances",
+      "5320403010": "other appliances, tools & housewares"
+    },
+    "53204040": {
+      "5320404016": "home furnishings wholesale",
+      "5320404015": "antiques",
+      "5320404014": "luxury furnishing",
+      "5320404013": "furniture & art",
+      "5320404012": "wallpaper",
+      "5320404011": "carpets & curtains",
+      "5320404010": "other home furnishings"
+    },
+    "53205010": {
+      "5320501016": "toys & children's products wholesale",
+      "5320501015": "children's products & accessories",
+      "5320501014": "children's furniture",
+      "5320501013": "children's safety products",
+      "5320501012": "games, toys & children's vehicles",
+      "5320501011": "dolls & stuffed toys",
+      "5320501010": "other toys & children's products"
+    },
+    "53205020": {
+      "5320502016": "leisure products wholesale",
+      "5320502015": "luxury recreational products",
+      "5320502014": "musical instruments",
+      "5320502013": "sporting & outdoor goods",
+      "5320502012": "bicycle manufacturing",
+      "5320502011": "sailing yachts & motorboats",
+      "5320502010": "other recreational products"
+    }
+  },
+  "5330": {
+    "53301010": {
+      "5330101017": "campsite operators",
+      "5330101016": "self-catering accommodation",
+      "5330101015": "bed & breakfast",
+      "5330101014": "resort operators",
+      "5330101013": "luxury hotels",
+      "5330101012": "cruise lines",
+      "5330101011": "hotels & motels",
+      "5330101010": "other hotels, motels & cruise lines"
+    },
+    "53301020": {
+      "5330102016": "cafés",
+      "5330102015": "banquet halls & catering",
+      "5330102014": "mobile caterers",
+      "5330102013": "quick service restaurants",
+      "5330102012": "commercial food services",
+      "5330102011": "pubs, bars & night clubs",
+      "5330102010": "other restaurants & bars"
+    },
+    "53301030": {
+      "5330103015": "lottery operators",
+      "5330103014": "horse & dog race tracks",
+      "5330103013": "casinos",
+      "5330103012": "gaming machine operators",
+      "5330103011": "gambling & gaming machine manufacturers",
+      "5330103010": "other casinos & gaming"
+    },
+    "53301040": {
+      "5330104023": "guided tour operators",
+      "5330104022": "marinas",
+      "5330104021": "hunting & fishing",
+      "5330104020": "golf courses",
+      "5330104019": "professional sports venues",
+      "5330104018": "public sport facilities",
+      "5330104017": "adventure sports facilities & ski resorts",
+      "5330104016": "gyms, fitness and spa centers",
+      "5330104015": "amusement parks and zoos",
+      "5330104014": "travel agents",
+      "5330104013": "museums & historic places",
+      "5330104012": "theatres & performing arts",
+      "5330104011": "movie theaters & movie products",
+      "5330104010": "other leisure & recreation"
+    },
+    "53302010": {
+      "5330201022": "marketing consulting services",
+      "5330201021": "market research",
+      "5330201020": "branding & naming",
+      "5330201019": "digital media agencies",
+      "5330201018": "public relations",
+      "5330201017": "guerrilla marketing",
+      "5330201016": "sales promotions & events management",
+      "5330201015": "direct marketing",
+      "5330201014": "outdoor advertising",
+      "5330201013": "signs & advertising specialty producers",
+      "5330201012": "media buying agency",
+      "5330201011": "advertising agency",
+      "5330201010": "other advertising & marketing"
+    },
+    "53302020": {
+      "5330202013": "cable service providers",
+      "5330202012": "radio broadcasting",
+      "5330202011": "television broadcasting",
+      "5330202010": "other broadcasting"
+    },
+    "53302030": {
+      "5330203016": "adult entertainment production & broadcasting",
+      "5330203015": "copyright management",
+      "5330203014": "entertainment production equipment & services",
+      "5330203013": "plays & concert production",
+      "5330203012": "music, music video production & distribution",
+      "5330203011": "movie, tv production & distribution",
+      "5330203010": "other entertainment production"
+    },
+    "53302040": {
+      "5330204016": "adult publishing",
+      "5330204015": "digital publishing",
+      "5330204014": "directory publishing",
+      "5330204013": "book publishing",
+      "5330204012": "magazine publishing",
+      "5330204011": "newspaper publishing",
+      "5330204010": "other consumer publishing"
+    }
+  },
+  "5340": {
+    "53402010": {
+      "5340201013": "internet & mail order department stores",
+      "5340201012": "luxury department stores",
+      "5340201011": "general department stores",
+      "5340201010": "other department stores"
+    },
+    "53402020": {
+      "5340202015": "discount stores without gasoline",
+      "5340202014": "discount stores with gasoline",
+      "5340202013": "discount stores without grocery",
+      "5340202012": "discount stores with grocery",
+      "5340202011": "internet & mail order discount stores",
+      "5340202010": "other discount stores"
+    },
+    "53403010": {
+      "5340301016": "luxury car dealers",
+      "5340301015": "tire dealers",
+      "5340301014": "automotive parts & accessories retailers",
+      "5340301013": "motorcycle dealers",
+      "5340301012": "used car dealers",
+      "5340301011": "new car dealers",
+      "5340301010": "other auto vehicles, parts & service retailers"
+    },
+    "53403020": {
+      "5340302017": "luxury home improvement product retailers",
+      "5340302016": "interior design services",
+      "5340302015": "home décor retailers",
+      "5340302014": "kitchen & bathroom retailers",
+      "5340302013": "nursery & garden centers",
+      "5340302012": "builder merchants",
+      "5340302011": "paint & wallpaper retailers",
+      "5340302010": "other home improvement products & services retailers"
+    },
+    "53403030": {
+      "5340303015": "antique dealers",
+      "5340303014": "luxury furnishing retailers",
+      "5340303013": "soft furnishing retailers",
+      "5340303012": "floor covering retailers",
+      "5340303011": "furniture retailers",
+      "5340303010": "other home furnishings retailers"
+    },
+    "53403040": {
+      "5340304019": "sports & outdoors retailers",
+      "5340304018": "luxury apparel retailers",
+      "5340304017": "handbags & luggage retailers",
+      "5340304016": "teen fashion retailers",
+      "5340304015": "children's & infants' clothing retailers",
+      "5340304014": "women's apparel retailers",
+      "5340304013": "men's apparel retailers",
+      "5340304012": "jewelry & watch retailers",
+      "5340304011": "footwear retailers",
+      "5340304010": "other apparel & accessories retailers"
+    },
+    "53403050": {
+      "5340305013": "mobile phone retailers",
+      "5340305012": "consumer electronics retailers",
+      "5340305011": "computer hardware & software retailers",
+      "5340305010": "other computer & electronics retailers"
+    },
+    "53403090": {
+      "5340309025": "adult products retailers",
+      "5340309024": "pet & pet supplies retailers",
+      "5340309023": "sporting goods stores",
+      "5340309022": "used merchandise stores",
+      "5340309021": "gift, novelty & souvenir stores",
+      "5340309020": "office supplies & stationery stores",
+      "5340309019": "florists",
+      "5340309018": "book & magazine retailers",
+      "5340309017": "toys & games retailers",
+      "5340309016": "hobby & craft product retailers",
+      "5340309015": "musical instrument retailers",
+      "5340309014": "health food stores",
+      "5340309013": "optical goods stores",
+      "5340309012": "personal care products retailers",
+      "5340309011": "luxury beauty supply retailers",
+      "5340309010": "other miscellaneous specialty retailers"
+    }
+  },
+  "5410": {
+    "54101010": {
+      "5410101011": "craft & micro brewers",
+      "5410101010": "other brewers"
+    },
+    "54101020": {
+      "5410102013": "malt producers",
+      "5410102012": "distilleries",
+      "5410102011": "wineries",
+      "5410102010": "other distillers & wineries"
+    },
+    "54101030": {
+      "5410103014": "bottled water & ice",
+      "5410103013": "energy drinks",
+      "5410103012": "fruit drinks",
+      "5410103011": "carbonated soft drinks",
+      "5410103010": "other non-alcoholic beverages"
+    },
+    "54102010": {
+      "5410201029": "cattle farming",
+      "5410201028": "hog & pig farming",
+      "5410201027": "agricultural biotechnology",
+      "5410201026": "fishing & farming wholesale",
+      "5410201025": "agricultural consultancy services",
+      "5410201024": "animal feed",
+      "5410201023": "organic farming",
+      "5410201022": "agriculture support services",
+      "5410201021": "animal breeding",
+      "5410201020": "fur farming",
+      "5410201019": "aquaculture",
+      "5410201018": "commercial fishing",
+      "5410201017": "commercial nurseries",
+      "5410201016": "sugarcane farming",
+      "5410201015": "coffee, tea & cocoa farming",
+      "5410201014": "vegetable, fruit & nut farming",
+      "5410201013": "sheep & specialty livestock farming",
+      "5410201012": "poultry farming",
+      "5410201011": "grain (crop) production",
+      "5410201010": "other fishing & farming"
+    },
+    "54102020": {
+      "5410202031": "pet food manufacturing",
+      "5410202030": "frozen food manufacturing",
+      "5410202029": "all other food manufacturing",
+      "5410202028": "ready-made meals",
+      "5410202027": "baby food",
+      "5410202026": "food ingredients",
+      "5410202025": "special foods & wellbeing products",
+      "5410202024": "snack food & non-chocolate confectionary",
+      "5410202023": "chocolate & confectionery",
+      "5410202022": "sugar & artificial sweeteners",
+      "5410202021": "coffee & tea",
+      "5410202020": "starch, vegetable fat & oil manufacturing",
+      "5410202019": "dairy products",
+      "5410202018": "seafood product preparation & packaging",
+      "5410202017": "halal meat processing",
+      "5410202016": "meat processing",
+      "5410202015": "fruit & vegetable processing",
+      "5410202014": "cookie, cracker & pasta manufacturing",
+      "5410202013": "breakfast cereal manufacturing",
+      "5410202012": "bread & bakery product manufacturing",
+      "5410202011": "flour milling",
+      "5410202010": "other food processing"
+    },
+    "54102030": {
+      "5410203014": "chewing tobacco products",
+      "5410203013": "cigars & cigarette manufacturing",
+      "5410203012": "tobacco stemming & redrying",
+      "5410203011": "tobacco farming",
+      "5410203010": "other tobacco"
+    }
+  },
+  "5420": {
+    "54201010": {
+      "5420101016": "auto cleaning products",
+      "5420101015": "pet & plant protection agents",
+      "5420101014": "brooms, brushes & dustpans",
+      "5420101013": "air fresheners",
+      "5420101012": "cleaning supplies",
+      "5420101011": "laundry supplies",
+      "5420101010": "other household products"
+    },
+    "54201020": {
+      "5420102015": "birth control products",
+      "5420102014": "hair accessories",
+      "5420102013": "sanitary products",
+      "5420102012": "luxury cosmetics",
+      "5420102011": "cosmetics & perfumes",
+      "5420102010": "other personal products"
+    },
+    "54201030": {
+      "5420103018": "funeral services",
+      "5420103017": "personal care services",
+      "5420103016": "consumer repair services",
+      "5420103015": "child care & family services",
+      "5420103014": "general education services",
+      "5420103013": "personal legal services",
+      "5420103012": "accounting & tax preparation",
+      "5420103011": "consumer goods rental",
+      "5420103010": "other personal services"
+    }
+  },
+  "5430": {
+    "54301010": {
+      "5430101012": "retail - drugs without grocery",
+      "5430101011": "retail - drugs with grocery",
+      "5430101010": "other drug retailers"
+    },
+    "54301020": {
+      "5430102016": "food markets",
+      "5430102015": "tobacco stores",
+      "5430102014": "vending machine providers",
+      "5430102013": "beer, wine & liquor stores",
+      "5430102012": "supermarkets & convenience stores",
+      "5430102011": "food wholesale",
+      "5430102010": "other food retail & distribution"
+    }
+  },
+  "5510": {
+    "55101010": {
+      "5510101015": "islamic banks",
+      "5510101014": "private banks",
+      "5510101013": "money center banks",
+      "5510101012": "retail & mortgage banks",
+      "5510101011": "corporate banks",
+      "5510101010": "other banks"
+    },
+    "55101030": {
+      "5510103015": "microfinancing",
+      "5510103014": "credit unions",
+      "5510103013": "consumer leasing",
+      "5510103012": "consumer credit cards services",
+      "5510103011": "personal & car loans",
+      "5510103010": "other consumer lending"
+    },
+    "55101050": {
+      "5510105015": "commercial leasing",
+      "5510105014": "factoring",
+      "5510105013": "international trade financing",
+      "5510105012": "import-export banks",
+      "5510105011": "commercial loans",
+      "5510105010": "other corporate financial services"
+    },
+    "55102010": {
+      "5510201015": "merchant banks",
+      "5510201014": "islamic investment banking & brokerage services",
+      "5510201013": "inter-dealer broker",
+      "5510201012": "brokerage services",
+      "5510201011": "investment banking",
+      "5510201010": "other investment banking & brokerage services"
+    },
+    "55102020": {
+      "5510202017": "islamic investment management & fund operators",
+      "5510202016": "private equity",
+      "5510202015": "venture capital",
+      "5510202014": "wealth management",
+      "5510202013": "collective investment fund operators",
+      "5510202012": "hedge funds",
+      "5510202011": "investment management",
+      "5510202010": "other investment management & fund operators"
+    },
+    "55102030": {
+      "5510203010": "diversified investment services"
+    },
+    "55102050": {
+      "5510205013": "financial technology & infrastructure",
+      "5510205012": "clearing, settlement & custodial service",
+      "5510205011": "securities & commodity exchanges",
+      "5510205010": "other financial & commodity market operators & service providers"
+    }
+  },
+  "5530": {
+    "55301010": {
+      "5530101012": "insurance brokers",
+      "5530101011": "islamic insurance",
+      "5530101010": "other multiline insurance & brokers"
+    },
+    "55301020": {
+      "5530102014": "casualty insurance",
+      "5530102013": "travel insurance",
+      "5530102012": "insurance - automobile",
+      "5530102011": "property insurance",
+      "5530102010": "other property & casualty insurance"
+    },
+    "55301030": {
+      "5530103012": "health insurance",
+      "5530103011": "life insurance",
+      "5530103010": "other life & health insurance"
+    },
+    "55301050": {
+      "5530105012": "property & casualty reinsurance",
+      "5530105011": "life & health reinsurance",
+      "5530105010": "other reinsurance"
+    }
+  },
+  "5540": {
+    "55402010": {
+      "5540201014": "residential real estate rental & development",
+      "5540201013": "industrial real estate rental & development",
+      "5540201012": "retail real estate rental & development",
+      "5540201011": "office real estate rental & development",
+      "5540201010": "other real estate rental, development & operations"
+    },
+    "55402020": {
+      "5540202014": "residential real estate services",
+      "5540202013": "industrial real estate services",
+      "5540202012": "retail real estate services",
+      "5540202011": "office real estate services",
+      "5540202010": "other real estate services"
+    },
+    "55403010": {
+      "5540301010": "diversified reits"
+    },
+    "55403020": {
+      "5540302013": "industrial reits",
+      "5540302012": "retail reits",
+      "5540302011": "office reits",
+      "5540302010": "other commercial reits"
+    },
+    "55403030": {
+      "5540303010": "residential reits"
+    },
+    "55403040": {
+      "5540304016": "islamic reits",
+      "5540304015": "mortgage reits",
+      "5540304014": "timber reits",
+      "5540304013": "self-storage reits",
+      "5540304012": "hospitality reits",
+      "5540304011": "healthcare reits",
+      "5540304010": "other specialized reits"
+    }
+  },
+  "5550": {
+    "55501010": {
+      "5550101010": "uk investment trusts"
+    },
+    "55501020": {
+      "5550102011": "islamic mutual funds",
+      "5550102010": "other mutual funds"
+    },
+    "55501030": {
+      "5550103010": "closed end funds"
+    },
+    "55501040": {
+      "5550104012": "islamic commodity etfs",
+      "5550104011": "islamic etfs",
+      "5550104010": "other exchange-traded funds"
+    },
+    "55501050": {
+      "5550105010": "pension funds"
+    },
+    "55501060": {
+      "5550106010": "insurance funds"
+    }
+  },
+  "5560": {
+    "55601010": {
+      "5560101011": "shell companies",
+      "5560101010": "other investment holding companies"
+    }
+  },
+  "5610": {
+    "56101010": {
+      "5610101016": "advanced medical equipment wholesale",
+      "5610101015": "medical software & technology services",
+      "5610101014": "medical imaging systems",
+      "5610101013": "laser equipment",
+      "5610101012": "medical monitoring systems",
+      "5610101011": "medical diagnostic & testing equipment",
+      "5610101010": "other advanced medical equipment & technology"
+    },
+    "56101020": {
+      "5610102019": "drug delivery systems",
+      "5610102018": "veterinary medical equipment & supplies",
+      "5610102017": "laboratory diagnostic & testing substances",
+      "5610102016": "glasses, spectacles & contact lenses",
+      "5610102015": "medical equipment wholesale",
+      "5610102014": "medical devices & implants",
+      "5610102013": "medical equipment",
+      "5610102012": "medical prosthetics",
+      "5610102011": "medical supplies",
+      "5610102010": "other medical equipment, supplies & distribution"
+    },
+    "56102010": {
+      "5610201019": "alternative medicine facilities",
+      "5610201018": "home healthcare services",
+      "5610201017": "telemedicine services",
+      "5610201016": "veterinary services",
+      "5610201015": "medical & diagnostic laboratories",
+      "5610201014": "doctor's office",
+      "5610201013": "ambulance & emergency services",
+      "5610201012": "residential & long-term care",
+      "5610201011": "hospitals, clinics & primary care services",
+      "5610201010": "other healthcare facilities & services"
+    },
+    "56102020": {
+      "5610202011": "hmo medical centers",
+      "5610202010": "other managed healthcare"
+    }
+  },
+  "5620": {
+    "56201040": {
+      "5620104016": "alternative medicine",
+      "5620104015": "generic pharmaceuticals",
+      "5620104014": "veterinary drugs",
+      "5620104013": "in-vivo diagnostic & testing substances",
+      "5620104012": "biopharmaceuticals",
+      "5620104011": "proprietary & advanced pharmaceuticals",
+      "5620104010": "other pharmaceuticals"
+    },
+    "56202010": {
+      "5620201013": "bio medical devices",
+      "5620201012": "bio diagnostics & testing",
+      "5620201011": "bio therapeutic drugs",
+      "5620201010": "other biotechnology & medical research"
+    }
+  },
+  "5710": {
+    "57101010": {
+      "5710101015": "nfc & rfid systems",
+      "5710101014": "semiconductor wholesale",
+      "5710101013": "processors",
+      "5710101012": "memory chips (ram)",
+      "5710101011": "integrated circuits",
+      "5710101010": "other semiconductors"
+    },
+    "57101020": {
+      "5710102013": "semiconductor equipment wholesalers",
+      "5710102012": "semiconductor testing equipment & service",
+      "5710102011": "semiconductor machinery manufacturing",
+      "5710102010": "other semiconductor equipment & testing"
+    },
+    "57102010": {
+      "5710201017": "fiber optic cable manufacturing",
+      "5710201016": "satellite communications network",
+      "5710201015": "broadcasting equipment",
+      "5710201014": "voip equipment & systems",
+      "5710201013": "conferencing tools & systems",
+      "5710201012": "security & surveillance",
+      "5710201011": "network equipment",
+      "5710201010": "other communications & networking"
+    },
+    "57104010": {
+      "5710401014": "electronic component",
+      "5710401013": "display screens",
+      "5710401012": "advanced electronic equipment",
+      "5710401011": "biometric products",
+      "5710401010": "other electronic equipment & parts"
+    },
+    "57105010": {
+      "5710501015": "office equipment wholesale",
+      "5710501014": "scientific & precision equipment",
+      "5710501013": "point of sale systems",
+      "5710501012": "office technology equipment",
+      "5710501011": "commercial document management",
+      "5710501010": "other office equipment"
+    },
+    "57106010": {
+      "5710601019": "consumer document management",
+      "5710601018": "computer hardware component assembly",
+      "5710601017": "storage devices",
+      "5710601016": "servers & systems",
+      "5710601015": "computer peripherals",
+      "5710601014": "input devices",
+      "5710601013": "tablet & netbook computers",
+      "5710601012": "laptop & desktop computers",
+      "5710601011": "scientific & super computers",
+      "5710601010": "other computer hardware"
+    },
+    "57106020": {
+      "5710602015": "mobile device component assembly",
+      "5710602014": "electronic books",
+      "5710602013": "personal music players",
+      "5710602012": "portable satellite navigation",
+      "5710602011": "phones & smart phones",
+      "5710602010": "other phones & handheld devices"
+    },
+    "57106030": {
+      "5710603014": "consumer electronic wholesale",
+      "5710603013": "home audio",
+      "5710603012": "tv & video",
+      "5710603011": "photographic equipment",
+      "5710603010": "other household electronics"
+    }
+  },
+  "5720": {
+    "57201010": {
+      "5720101015": "cloud computing services",
+      "5720101014": "it testing services",
+      "5720101013": "technology consulting & outsourcing services",
+      "5720101012": "computer training",
+      "5720101011": "computer programming",
+      "5720101010": "other it services & consulting"
+    },
+    "57201020": {
+      "5720102017": "server & database software",
+      "5720102016": "programming software & testing tools",
+      "5720102015": "mobile system software",
+      "5720102014": "mobile application software",
+      "5720102013": "enterprise software",
+      "5720102012": "application software",
+      "5720102011": "system software",
+      "5720102010": "other software"
+    },
+    "57201030": {
+      "5720103016": "internet gaming",
+      "5720103015": "internet security & transactions services",
+      "5720103014": "content & site management services",
+      "5720103013": "e-commerce & online marketplace services",
+      "5720103012": "social media & networking",
+      "5720103011": "search engines",
+      "5720103010": "other online services"
+    }
+  },
+  "5810": {
+    "58101010": {
+      "5810101015": "voip services",
+      "5810101014": "telecommunications network infrastructure",
+      "5810101013": "internet service providers",
+      "5810101012": "telecommunications resellers",
+      "5810101011": "wired telecommunications carriers",
+      "5810101010": "other integrated telecommunications services"
+    },
+    "58101020": {
+      "5810102014": "wireless telecoms service providers",
+      "5810102013": "wi-fi & wi-max providers",
+      "5810102012": "satellite service operators",
+      "5810102011": "alternative communications services",
+      "5810102010": "other wireless telecommunications services"
+    }
+  },
+  "5910": {
+    "59101010": {
+      "5910101013": "nuclear utilities",
+      "5910101012": "fossil fuel electric utilities",
+      "5910101011": "renewable utilities",
+      "5910101010": "other electric utilities"
+    },
+    "59101020": {
+      "5910102013": "nuclear ipps",
+      "5910102012": "renewable ipps",
+      "5910102011": "fossil fuel ipps",
+      "5910102010": "other independent power producers"
+    },
+    "59102010": {
+      "5910201011": "natural gas distribution",
+      "5910201010": "other natural gas utilities"
+    },
+    "59103010": {
+      "5910301013": "heating & air-conditioning supply",
+      "5910301012": "sewage treatment facilities",
+      "5910301011": "water supply & irrigation systems",
+      "5910301010": "other water & related utilities"
+    },
+    "59104010": {
+      "5910401010": "multiline utilities"
+    }
+  }
+}
