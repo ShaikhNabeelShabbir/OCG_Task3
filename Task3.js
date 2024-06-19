@@ -1,5 +1,5 @@
 const fs = require("fs").promises;
-// Fetch data from CoinGecko API
+// Fetch data from the given URL
 const fetchDATA = async (url, name) => {
   try {
     const response = await fetch(url);
