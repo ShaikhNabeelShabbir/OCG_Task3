@@ -62,7 +62,7 @@ const industriesJson = async (name) => {
       //console.log(`${key} == ${element.industries}`);
       list[key] = element.industries;
     }
-    console.log(list);
+    //console.log(list);
     //iterating list which has the industries
     for (const key in list) {
       if (data.hasOwnProperty(key)) {
@@ -77,11 +77,58 @@ const industriesJson = async (name) => {
         }
       }
     }
+    console.log("industries");
+    console.log(result);
   } catch (err) {
     console.error("Error reading or parsing file", err);
   }
   jResult = JSON.stringify(result, null, 2);
   await JSON_File_Creator(jResult, "industries");
+};
+
+const activitiesJson = async (name) => {
+  var result = {};
+  var activities = {};
+
+  try {
+    // Read the JSON file
+    const data = await fs.readFile(`${name}.json`, "utf8");
+
+    // Parse the JSON file
+    const obj = JSON.parse(data);
+    const list = obj.data;
+
+    //Iterate over the JSON object to transform the structure
+    for (const key in list) {
+      if (list.hasOwnProperty(key)) {
+        const industries = list[key].industries;
+        result[key] = {}; // Initialize an empty object for the current key
+
+        // Iterate through each industry in the current key's object
+        for (const industryKey in industries) {
+          if (industries.hasOwnProperty(industryKey)) {
+            const industry = industries[industryKey];
+            const activities = industry.activities;
+            result[key][industryKey] = {}; // Initialize an empty object for the current industry key
+
+            // Iterate through each activity in the current industry
+            for (const activityKey in activities) {
+              if (activities.hasOwnProperty(activityKey)) {
+                result[key][industryKey][activityKey] =
+                  activities[activityKey].name;
+              }
+            }
+          }
+        }
+      }
+    }
+    console.log("result");
+    console.log(result);
+  } catch (err) {
+    console.error("Error reading or parsing file", err);
+  }
+  jResult = JSON.stringify(result, null, 2);
+  await JSON_File_Creator(jResult, "activities");
 };
 
 const main = async () => {
@@ -94,6 +141,7 @@ const main = async () => {
     );
     await sectorsJson("mainData");
     await industriesJson("mainData");
+    await activitiesJson("mainData");
   } catch (error) {
     console.log("Problem happened", error);
   } finally {
